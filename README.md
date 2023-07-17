@@ -1,6 +1,19 @@
 # flutter_movie_app
-<h1 Flutter ile izlenebilir film app/h1>
-<h1 kullanılan paketler /h1>
+#Flutter ile izlenebilir film app
+ #kullanılan paketler 
+ #firebasehh
+ #cloud_firestore
+ #firebase_analytics
+ #
+ #
+ #
+ #
+ #
+ 
+ 
+ 
+ 
+ 
  <h1 #firebasehh/h1>
    <h1cloud_firestore/h1>
   <h1 firebase_core/h1>
